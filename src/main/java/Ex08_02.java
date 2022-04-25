@@ -20,5 +20,4 @@ public class Ex08_02 {
 
         System.out.printf("합계 ==> %d\n", hap);
     }
-
 }
